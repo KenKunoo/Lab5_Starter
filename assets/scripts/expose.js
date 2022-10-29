@@ -3,7 +3,6 @@
 window.addEventListener('DOMContentLoaded', init);
 
 function init() {
-
 }
 // conf
 var jsConfetti = new JSConfetti();
