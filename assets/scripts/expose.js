@@ -18,6 +18,7 @@ var volImage = volControls.querySelector("img");
 const buttonClick = document.querySelector("button");
 
 function init() {
+  
   // event on select horns
   button.addEventListener("click", (event)=> {
     if (button.selectedIndex == 1 && buttonIdx != 1) {
